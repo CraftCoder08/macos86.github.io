@@ -1,0 +1,1 @@
+const t={key:"v-aaa7112c",path:"/Getting-Started-With-ACPI/Universal/ec/ssdttime.html",title:"Fixing Embedded Controllers: SSDTTime",lang:"it-IT",frontmatter:{},excerpt:"",headers:[{level:2,title:"Wrapping up",slug:"wrapping-up",children:[]}],filePathRelative:"Getting-Started-With-ACPI/Universal/ec/ssdttime.md",git:{updatedTime:null,contributors:[]}};export{t as data};

@@ -1,0 +1,1 @@
+const t={key:"v-6f2f1670",path:"/Getting-Started-With-ACPI/cleanup.html",title:"Cleanup",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"Getting-Started-With-ACPI/cleanup.md",git:{updatedTime:null,contributors:[]}};export{t as data};

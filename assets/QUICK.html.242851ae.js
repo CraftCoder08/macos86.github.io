@@ -1,0 +1,1 @@
+const t={key:"v-6244e9fb",path:"/OpenCore-Multiboot/QUICK.html",title:"Quick Guide no BS",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"OpenCore-Multiboot/QUICK.md",git:{updatedTime:null,contributors:[]}};export{t as data};

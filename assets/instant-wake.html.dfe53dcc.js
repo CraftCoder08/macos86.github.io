@@ -1,0 +1,1 @@
+const t={key:"v-4fda6e32",path:"/OpenCore-Post-Install/usb/misc/instant-wake.html",title:"GPRW/UPRW/LANC Instant Wake Patch",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"OpenCore-Post-Install/usb/misc/instant-wake.md",git:{updatedTime:null,contributors:[]}};export{t as data};

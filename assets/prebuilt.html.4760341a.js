@@ -1,0 +1,1 @@
+const t={key:"v-193524c6",path:"/Getting-Started-With-ACPI/Universal/nvram/prebuilt.html",title:"Fixing NVRAM: Prebuilt",lang:"it-IT",frontmatter:{},excerpt:"",headers:[{level:2,title:"Wrapping up",slug:"wrapping-up",children:[]}],filePathRelative:"Getting-Started-With-ACPI/Universal/nvram/prebuilt.md",git:{updatedTime:null,contributors:[]}};export{t as data};

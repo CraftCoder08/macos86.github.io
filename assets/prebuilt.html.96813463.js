@@ -1,0 +1,1 @@
+const t={key:"v-5e24875e",path:"/Getting-Started-With-ACPI/Universal/rhub/prebuilt.html",title:"Fixing USB: Prebuilt",lang:"it-IT",frontmatter:{},excerpt:"",headers:[{level:2,title:"Wrapping up",slug:"wrapping-up",children:[]}],filePathRelative:"Getting-Started-With-ACPI/Universal/rhub/prebuilt.md",git:{updatedTime:null,contributors:[]}};export{t as data};

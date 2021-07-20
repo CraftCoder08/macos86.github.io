@@ -1,0 +1,1 @@
+const e={key:"v-6a85cd96",path:"/prerequisites.html",title:"Prerequisiti",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"prerequisites.md",git:{updatedTime:1619696487e3,contributors:[]}};export{e as data};

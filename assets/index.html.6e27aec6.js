@@ -1,0 +1,1 @@
+const e={key:"v-1924b4e2",path:"/OpenCore-Multiboot/",title:"Multiboot con OpenCore",lang:"it-IT",frontmatter:{},excerpt:"",headers:[{level:2,title:"Firmware Types",slug:"firmware-types",children:[]},{level:2,title:"Disclaimer",slug:"disclaimer",children:[]}],filePathRelative:"OpenCore-Multiboot/README.md",git:{updatedTime:null,contributors:[]}};export{e as data};

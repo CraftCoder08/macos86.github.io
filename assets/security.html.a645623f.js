@@ -1,0 +1,1 @@
+const t={key:"v-2451aaff",path:"/OpenCore-Post-Install/universal/security.html",title:"Security and FileVault",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"OpenCore-Post-Install/universal/security.md",git:{updatedTime:null,contributors:[]}};export{t as data};

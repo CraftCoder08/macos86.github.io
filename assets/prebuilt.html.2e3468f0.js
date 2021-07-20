@@ -1,0 +1,1 @@
+const t={key:"v-4bba835c",path:"/Getting-Started-With-ACPI/Universal/plug/prebuilt.html",title:"Fixing Power Management: Prebuilt",lang:"it-IT",frontmatter:{},excerpt:"",headers:[{level:2,title:"Wrapping up",slug:"wrapping-up",children:[]}],filePathRelative:"Getting-Started-With-ACPI/Universal/plug/prebuilt.md",git:{updatedTime:null,contributors:[]}};export{t as data};

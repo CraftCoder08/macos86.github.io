@@ -1,0 +1,1 @@
+const t={key:"v-6b728fc6",path:"/OpenCore-Multiboot/empty/diffdisk.html",title:"Dualbooting on different disks",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"OpenCore-Multiboot/empty/diffdisk.md",git:{updatedTime:null,contributors:[]}};export{t as data};

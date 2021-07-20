@@ -1,0 +1,1 @@
+const t={key:"v-932fef26",path:"/OpenCore-Multiboot/oc/duet.html",title:"Installing OpenCore on a legacy system",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"OpenCore-Multiboot/oc/duet.md",git:{updatedTime:null,contributors:[]}};export{t as data};

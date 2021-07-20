@@ -1,0 +1,1 @@
+const t={key:"v-ef1f4874",path:"/OpenCore-Multiboot/Intro/Def.html",title:"What is multibooting?",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"OpenCore-Multiboot/Intro/Def.md",git:{updatedTime:null,contributors:[]}};export{t as data};

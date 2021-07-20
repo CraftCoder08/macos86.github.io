@@ -1,0 +1,1 @@
+const e={key:"v-629093e9",path:"/OpenCore-Post-Install/universal/security/password.html",title:"OpenCore Menu Password",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"OpenCore-Post-Install/universal/security/password.md",git:{updatedTime:null,contributors:[]}};export{e as data};

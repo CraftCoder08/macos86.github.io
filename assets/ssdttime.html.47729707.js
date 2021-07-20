@@ -1,0 +1,1 @@
+const t={key:"v-2a30e464",path:"/Getting-Started-With-ACPI/Universal/awac/ssdttime.html",title:"Fixing System Clocks (SSDT-AWAC/RTC0)",lang:"it-IT",frontmatter:{},excerpt:"",headers:[{level:2,title:"Wrapping up",slug:"wrapping-up",children:[]}],filePathRelative:"Getting-Started-With-ACPI/Universal/awac/ssdttime.md",git:{updatedTime:null,contributors:[]}};export{t as data};

@@ -1,0 +1,1 @@
+const t={key:"v-37a7cf26",path:"/Getting-Started-With-ACPI/Universal/awac/prebuilt.html",title:"Fixing System Clocks: Prebuilt",lang:"it-IT",frontmatter:{},excerpt:"",headers:[{level:2,title:"Wrapping up",slug:"wrapping-up",children:[]}],filePathRelative:"Getting-Started-With-ACPI/Universal/awac/prebuilt.md",git:{updatedTime:null,contributors:[]}};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-49d4ff08",path:"/opencore-efi.html",title:"Aggiungere i file di base",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"opencore-efi.md",git:{updatedTime:1626524311e3,contributors:[]}};export{e as data};

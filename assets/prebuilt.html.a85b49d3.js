@@ -1,0 +1,1 @@
+const t={key:"v-678598b0",path:"/Getting-Started-With-ACPI/Laptops/trackpad/prebuilt.html",title:"Fixing Trackpads: Prebuilt",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"Getting-Started-With-ACPI/Laptops/trackpad/prebuilt.md",git:{updatedTime:null,contributors:[]}};export{t as data};

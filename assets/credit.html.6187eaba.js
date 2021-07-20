@@ -1,0 +1,1 @@
+const t={key:"v-1de830e7",path:"/credit.html",title:"Crediti",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"credit.md",git:{updatedTime:1624733517e3,contributors:[]}};export{t as data};

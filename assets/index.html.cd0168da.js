@@ -1,0 +1,1 @@
+const e={key:"v-02cb8be4",path:"/troubleshooting/",title:"Risoluzione dei problemi",lang:"it-IT",frontmatter:{},excerpt:"",headers:[{level:2,title:"Sommario",slug:"sommario",children:[]}],filePathRelative:"troubleshooting/README.md",git:{updatedTime:1620743124e3,contributors:[]}};export{e as data};

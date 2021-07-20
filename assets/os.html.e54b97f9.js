@@ -1,0 +1,1 @@
+const t={key:"v-5f701d2e",path:"/OpenCore-Multiboot/exist/os.html",title:"On a filled OS related disk (Windows/Linux)",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"OpenCore-Multiboot/exist/os.md",git:{updatedTime:null,contributors:[]}};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-cd7d8fbc",path:"/OpenCore-Post-Install/usb/misc/",title:"Miscellaneous Fixes",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"OpenCore-Post-Install/usb/misc/README.md",git:{updatedTime:null,contributors:[]}};export{e as data};

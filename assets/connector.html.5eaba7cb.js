@@ -1,0 +1,1 @@
+const t={key:"v-072479ec",path:"/OpenCore-Post-Install/gpu-patching/intel-patching/connector.html",title:"Patching Connector Types",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"OpenCore-Post-Install/gpu-patching/intel-patching/connector.md",git:{updatedTime:null,contributors:[]}};export{t as data};

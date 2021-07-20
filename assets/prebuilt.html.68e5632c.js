@@ -1,0 +1,1 @@
+const t={key:"v-ccfb8758",path:"/Getting-Started-With-ACPI/Universal/unc0/prebuilt.html",title:"Fixing Uncore Bridges: Prebuilt",lang:"it-IT",frontmatter:{},excerpt:"",headers:[{level:2,title:"Wrapping up",slug:"wrapping-up",children:[]}],filePathRelative:"Getting-Started-With-ACPI/Universal/unc0/prebuilt.md",git:{updatedTime:null,contributors:[]}};export{t as data};

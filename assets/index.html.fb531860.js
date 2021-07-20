@@ -1,0 +1,1 @@
+const t={key:"v-6e710a9f",path:"/Getting-Started-With-ACPI/ssdt-methods/",title:"Creiamo gli SSDT",lang:"it-IT",frontmatter:{prev:"/ktext.md"},excerpt:"",headers:[],filePathRelative:"Getting-Started-With-ACPI/ssdt-methods/README.md",git:{updatedTime:null,contributors:[]}};export{t as data};

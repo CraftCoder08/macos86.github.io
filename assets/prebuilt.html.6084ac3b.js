@@ -1,0 +1,1 @@
+const t={key:"v-4ee5728d",path:"/Getting-Started-With-ACPI/Laptops/backlight/prebuilt.html",title:"Fixing Backlight: Prebuilt",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"Getting-Started-With-ACPI/Laptops/backlight/prebuilt.md",git:{updatedTime:null,contributors:[]}};export{t as data};

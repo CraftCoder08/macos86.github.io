@@ -1,0 +1,1 @@
+const e={key:"v-6eb4e255",path:"/OpenCore-Post-Install/universal/security/scanpolicy.html",title:"ScanPolicy",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"OpenCore-Post-Install/universal/security/scanpolicy.md",git:{updatedTime:null,contributors:[]}};export{e as data};

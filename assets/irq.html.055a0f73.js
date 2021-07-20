@@ -1,0 +1,1 @@
+const t={key:"v-04d1da50",path:"/Getting-Started-With-ACPI/Universal/irq.html",title:"Fixing IRQ Conflicts (SSDT-HPET + OC_Patches.plist)",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"Getting-Started-With-ACPI/Universal/irq.md",git:{updatedTime:null,contributors:[]}};export{t as data};

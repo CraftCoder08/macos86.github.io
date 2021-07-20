@@ -1,0 +1,1 @@
+const t={key:"v-0d1862d1",path:"/LICENSE.html",title:"Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"LICENSE.md",git:{updatedTime:161786537e4,contributors:[]}};export{t as data};

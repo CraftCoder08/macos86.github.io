@@ -1,0 +1,1 @@
+const t={key:"v-09944f61",path:"/OpenCore-Post-Install/usb/misc/shutdown.html",title:"Fixing Shutdown/Restart",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"OpenCore-Post-Install/usb/misc/shutdown.md",git:{updatedTime:null,contributors:[]}};export{t as data};

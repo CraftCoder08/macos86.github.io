@@ -1,0 +1,1 @@
+const e={key:"v-bde8eed4",path:"/OpenCore-Post-Install/usb/misc/power.html",title:"Fixing USB Power",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"OpenCore-Post-Install/usb/misc/power.md",git:{updatedTime:null,contributors:[]}};export{e as data};

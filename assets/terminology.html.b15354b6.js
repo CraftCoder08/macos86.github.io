@@ -1,0 +1,1 @@
+const t={key:"v-8c715202",path:"/terminology.html",title:"Lessico",lang:"it-IT",frontmatter:{},excerpt:"",headers:[],filePathRelative:"terminology.md",git:{updatedTime:16247335e5,contributors:[]}};export{t as data};

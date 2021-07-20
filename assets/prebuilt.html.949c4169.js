@@ -1,0 +1,1 @@
+const t={key:"v-51ffadd4",path:"/Getting-Started-With-ACPI/Universal/imei/prebuilt.html",title:"Fixing IMEI: Prebuilt",lang:"it-IT",frontmatter:{},excerpt:"",headers:[{level:2,title:"Wrapping up",slug:"wrapping-up",children:[]}],filePathRelative:"Getting-Started-With-ACPI/Universal/imei/prebuilt.md",git:{updatedTime:null,contributors:[]}};export{t as data};

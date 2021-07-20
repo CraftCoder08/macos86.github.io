@@ -1,0 +1,1 @@
+const t={key:"v-3f1d2a3c",path:"/OpenCore-Post-Install/usb/intel-mapping/intel.html",title:"USB Mapping",lang:"it-IT",frontmatter:{},excerpt:"",headers:[{level:2,title:"Intel USB Mapping",slug:"intel-usb-mapping",children:[]}],filePathRelative:"OpenCore-Post-Install/usb/intel-mapping/intel.md",git:{updatedTime:null,contributors:[]}};export{t as data};

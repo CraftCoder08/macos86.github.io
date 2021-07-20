@@ -1,0 +1,1 @@
+const e={key:"v-67462f91",path:"/installer-guide/",title:"Creare l'Installer",lang:"it-IT",frontmatter:{},excerpt:"",headers:[{level:2,title:"Installer Online vs Offline",slug:"installer-online-vs-offline",children:[]}],filePathRelative:"installer-guide/README.md",git:{updatedTime:1626355596e3,contributors:[]}};export{e as data};
